@@ -1,0 +1,67 @@
+[ComfyUI] ## ComfyUI-Manager: installing dependencies done.
+[2024-06-26 09:46] [ComfyUI] ** ComfyUI startup time: 2024-06-26 09:46:21.086640
+[2024-06-26 09:46] [ComfyUI] ** Platform: Windows
+[2024-06-26 09:46] [ComfyUI] ** Python version: 3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)]
+[2024-06-26 09:46] [ComfyUI] ** Python executable: C:\Blender-Git\stable-diffusion-webui\venv\Scripts\python.exe
+[2024-06-26 09:46] [ComfyUI] ** Log path: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\comfyui.log
+[2024-06-26 09:46] [ComfyUI] ### Loading: ComfyUI-Manager (V2.41)
+[2024-06-26 09:46] [ComfyUI] ### ComfyUI Revision: 2280 [73ca7800] | Released on '2024-06-23'
+[2024-06-26 09:46] [ComfyUI] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/model-list.json
+[2024-06-26 09:46] [ComfyUI] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/alter-list.json
+[2024-06-26 09:46] [ComfyUI] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/extension-node-map.json
+[2024-06-26 09:46] [ComfyUI] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/custom-node-list.json
+[2024-06-26 09:46] [ComfyUI] [ComfyUI-Manager] default cache updated: https://raw.githubusercontent.com/ltdrdata/ComfyUI-Manager/main/github-stats.json
+[2024-06-26 09:46] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 09:46] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 09:46] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 09:46] [ComfyUI] registered ws - postprocess_image_txt2img - d1d6e83e3a6740daadc5ba84e027035e
+[2024-06-26 09:46] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 09:46] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 09:46] [ComfyUI] registered ws - postprocess_image_img2img - ddde730a61ac4a76b7bd944a15d53814
+[2024-06-26 09:46] [ComfyUI] registered ws - before_save_image_txt2img - ec0314620ccb45609ab98b5c83edef98
+[2024-06-26 09:46] [ComfyUI] registered ws - postprocess_img2img - 9693508e6ef247e298ad958adfcee6b9
+[2024-06-26 09:46] [ComfyUI] registered ws - before_save_image_img2img - 79e55a1081e24f94ad94705863a3bc50
+[2024-06-26 10:30] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 10:30] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 10:30] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 10:30] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 10:30] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 10:30] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 10:30] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 10:30] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 10:30] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 10:30] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 10:30] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 10:30] [ComfyUI] registered ws - sandbox_tab - 11c1b9d7362646659e4a1a5c22edc7c7
+[2024-06-26 10:30] [ComfyUI] registered ws - preprocess_img2img - 03c8f94fcaaa411bbe1eb2a8ca2040de
+[2024-06-26 10:31] [ComfyUI] registered ws - postprocess_img2img - 7c45917cbb5f448d897e7bf38fee89eb
+[2024-06-26 10:31] [ComfyUI] registered ws - preprocess_latent_img2img - 2e068961e8ad451cb008bed863ff1be4
+[2024-06-26 10:31] [ComfyUI] registered ws - postprocess_txt2img - 4636023696004fe19c7aabfa5c696957
+[2024-06-26 10:31] [ComfyUI] registered ws - postprocess_latent_img2img - 1a69b07920a74eb4a0e42ed1fb1a6d12
+[2024-06-26 10:31] [ComfyUI] registered ws - postprocess_latent_txt2img - 727710ff23844c19b5d0cfd74e40c465
+[2024-06-26 10:31] [ComfyUI] registered ws - postprocess_image_txt2img - de5f6e636f824cd08ec18c2cfaf437db
+[2024-06-26 10:31] [ComfyUI] registered ws - postprocess_image_img2img - eeb8152576dd4c20bcca60fbeca51ba1
+[2024-06-26 10:31] [ComfyUI] registered ws - before_save_image_txt2img - 68e762989f464390a2675c6741b09e90
+[2024-06-26 10:31] [ComfyUI] registered ws - before_save_image_img2img - 9fc5345826ff48ba9baffe697aa777aa
+[2024-06-26 11:53] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 11:53] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 11:53] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 11:53] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 11:53] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 11:53] [ComfyUI] registered ws - postprocess_latent_img2img - e992d337822047a49139727e54726fcd
+[2024-06-26 11:53] [ComfyUI] registered ws - before_save_image_img2img - 9a59a07fcfaf46c58f2d96298df04003
+[2024-06-26 11:53] [ComfyUI] registered ws - sandbox_tab - 2da5756735014cfcaa65e2e7faea0602
+[2024-06-26 11:53] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 11:53] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 11:53] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 11:53] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 11:53] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 11:53] [ComfyUI] FETCH DATA from: C:\Blender-Git\stable-diffusion-webui\extensions\ComfyUI\custom_nodes\ComfyUI-Manager\extension-node-map.json[ComfyUI]  [DONE]
+[2024-06-26 11:53] [ComfyUI] registered ws - postprocess_txt2img - 1a3474c843114e89b74ad11d093d36d5
+[2024-06-26 11:53] [ComfyUI] registered ws - preprocess_img2img - 273f1e51cab649fcaa8c78bf0c088d11
+[2024-06-26 11:53] [ComfyUI] registered ws - preprocess_latent_img2img - 737a491ac44e4f60acd5d2f6dd796001
+[2024-06-26 11:54] [ComfyUI] registered ws - postprocess_latent_txt2img - 8d4dc855232f4a68913b4ee1c13f07ad
+[2024-06-26 11:54] [ComfyUI] registered ws - postprocess_img2img - 66c66fbc87294c39b9c0d4bb64cd37e9
+[2024-06-26 11:54] [ComfyUI] registered ws - postprocess_image_img2img - da35a1e5e5934983b53154b7a2bf2530
+[2024-06-26 11:54] [ComfyUI] registered ws - postprocess_image_txt2img - 86a2bd5f43e24a28a18aa008acb6db7c
+[2024-06-26 11:54] [ComfyUI] registered ws - before_save_image_txt2img - 715b1d27562444c89201790c4a9aac1d
